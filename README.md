@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning high shcool
 - 💞️ I’m looking to collaborate on Python and C/C++, HTML, CSS, js
-- 📫 How to reach me facebook: https://www.facebook.com/longngn.khtn/
+- 📫 How to reach me facebook: https://www.facebook.com/longhngn.o25/
 
 <!---
 Longkhtn/Longkhtn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
