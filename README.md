@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning high shcool
 - 💞️ I’m looking to collaborate on Python and C/C++, HTML, CSS, js
 - 📫 How to reach me facebook: https://www.facebook.com/longhngn.o25/
-
+- Sound clound: https://soundcloud.com/nhtlong
 <!---
 Longkhtn/Longkhtn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
